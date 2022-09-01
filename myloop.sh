@@ -10,5 +10,5 @@ if [[ ( $credentials == "admin" || $credentials == "admin@gmail.com" && $passwor
 then
 echo "valid credentials welcome "$credentials
 else
-echo "invalid credentials !! please try again"
+echo "invalid credentials !! please try again thank you"
 fi
